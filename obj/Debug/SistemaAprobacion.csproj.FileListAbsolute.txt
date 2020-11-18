@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\SistemaAprobacion\SistemaAprobacion\bin\Debug\SistemaAprobacion.exe.config
+C:\Users\Usuario\source\repos\SistemaAprobacion\SistemaAprobacion\bin\Debug\SistemaAprobacion.exe
+C:\Users\Usuario\source\repos\SistemaAprobacion\SistemaAprobacion\bin\Debug\SistemaAprobacion.pdb
+C:\Users\Usuario\source\repos\SistemaAprobacion\SistemaAprobacion\obj\Debug\SistemaAprobacion.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\SistemaAprobacion\SistemaAprobacion\obj\Debug\SistemaAprobacion.aprobacion.resources
+C:\Users\Usuario\source\repos\SistemaAprobacion\SistemaAprobacion\obj\Debug\SistemaAprobacion.Jefe1.resources
+C:\Users\Usuario\source\repos\SistemaAprobacion\SistemaAprobacion\obj\Debug\SistemaAprobacion.Properties.Resources.resources
+C:\Users\Usuario\source\repos\SistemaAprobacion\SistemaAprobacion\obj\Debug\SistemaAprobacion.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\SistemaAprobacion\SistemaAprobacion\obj\Debug\SistemaAprobacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SistemaAprobacion\SistemaAprobacion\obj\Debug\SistemaAprobacion.exe
+C:\Users\Usuario\source\repos\SistemaAprobacion\SistemaAprobacion\obj\Debug\SistemaAprobacion.pdb
+C:\Users\Usuario\source\repos\SistemaAprobacion\SistemaAprobacion\obj\Debug\SistemaAprobacion.MsjdenegadoJefe1.resources
